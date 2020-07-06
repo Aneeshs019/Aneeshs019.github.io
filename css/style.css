@@ -117,6 +117,7 @@ p {
 }
 
 #intro p {
+word-spacing: 20px;	
   margin: 0;
   font-family: 'Libre Baskerville', serif;
   font-size: 1.3rem;
