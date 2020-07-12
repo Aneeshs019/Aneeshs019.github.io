@@ -254,6 +254,10 @@ word-spacing: 15px;
   padding: 0 3.5%;
 }
 
+#footer p {
+margin-bottom: 0px;
+}
+
 .i-li {
   color: #0e76a8;
 }
