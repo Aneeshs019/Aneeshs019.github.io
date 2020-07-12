@@ -251,6 +251,17 @@ word-spacing: 15px;
 }
 
 #footer i {
-  padding: 0 4.5%;
-  color: #32ff6a;
+  padding: 0 3.5%;
+}
+
+.i-li {
+  color: #0e76a8;
+}
+
+.i-fb{
+  color: #4267B2;
+}
+
+.i-ist{
+  color: #E1306C;
 }
